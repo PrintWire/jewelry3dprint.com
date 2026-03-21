@@ -1,0 +1,197 @@
+baseURL = "https://jewelry3dprint.com/"
+languageCode = "en-us"
+title = "Jewelry 3D Print"
+theme = "printwire"
+
+[params]
+tagline       = "Lost-wax casting patterns, direct metal printing, and custom jewelry prototyping for artisan jewellers and production houses."
+description   = "Jewelry 3D Print is the resource for additive manufacturing in the jewellery industry — wax pattern printing, direct metal sintering, and CAD-to-casting workflows."
+keywords      = "jewelry 3D printing, lost wax casting, jewelry CAD, gold 3D print, silver 3D print, platinum casting, jewelry prototyping"
+logoEmoji     = "💍"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#d4af37"
+colorPrimaryDark  = "#b8942e"
+colorPrimaryLight = "#e8c84a"
+colorBgDark       = "#0f0520"
+colorBgSection    = "#130828"
+colorBgCard       = "#1a0f35"
+colorBgCardHover  = "#211444"
+colorBorder       = "rgba(212,175,55,0.22)"
+colorBorderLight  = "rgba(212,175,55,0.10)"
+
+fontPrimary   = "Cinzel"
+fontSecondary = "Cormorant+Garamond"
+
+newsFallbackImages = [
+  "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80",
+  "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80",
+]
+
+heroEyebrow  = "Jewelry Additive Manufacturing"
+heroTitle    = "Jewelry <em>3D Print</em>"
+heroSubtitle = "Lost-wax casting patterns, direct metal printing, and custom jewelry prototyping for artisan jewellers and production houses."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+
+overviewLabel   = "Casting Workflow"
+overviewTitle   = "From CAD to Precious Metal"
+overviewText    = "Eliminate the pattern-maker. 3D printed wax and resin patterns achieve finer detail than hand carving, with faster turnaround and zero minimum order."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsLabel = "Applications"
+applicationsTitle = "Industries We Serve"
+servicesLabel    = "What We Do"
+servicesTitle    = "Jewelry 3D Print Services"
+servicesSubtitle = "Lost-wax casting patterns, direct metal printing, and custom jewelry prototyping for artisan jewellers and production houses."
+clusterLabel = "PrintWire Network"
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Lost-wax casting patterns, direct metal printing, and custom jewelry prototyping for artisan jewellers and production houses."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 25
+suffix = "µm"
+label  = "Print Resolution (castable resin)"
+
+[[params.stats]]
+count  = 48
+suffix = "hr"
+label  = "Wax Pattern to Casting"
+
+[[params.stats]]
+count  = 5
+suffix = "B+"
+label  = "Jewelry AM Market (USD)"
+
+[[params.stats]]
+count  = 99
+suffix = "%"
+label  = "Burnout Completeness"
+
+
+[[params.applications]]
+title       = "Engagement Rings & Fine Jewelry"
+description = "Intricate settings, pavé, and micro-detail pieces from direct wax or resin print."
+image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+
+[[params.applications]]
+title       = "Fashion & Statement Pieces"
+description = "Sculptural and avant-garde designs that push the limits of conventional fabrication."
+image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+
+[[params.applications]]
+title       = "Watches & Components"
+description = "Case components, bezels, and bracelet links in gold, silver, and platinum alloys."
+image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+
+[[params.applications]]
+title       = "Bespoke Commissions"
+description = "One-off commissioned pieces direct from client sketches or 3D scans."
+image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "✨"
+title       = "Castable Wax Printing"
+description = "High-resolution castable wax and resin patterns for investment casting — 25µm resolution, complete burnout."
+
+[[params.servicesPreview]]
+icon        = "💍"
+title       = "Direct Metal Jewelry"
+description = "Gold, silver, and platinum parts via direct metal laser sintering — no casting step required."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Jewelry Prototyping"
+description = "Rapid concept models in photopolymer resin before committing to precious metal production."
+
+[[params.servicesPreview]]
+icon        = "🖥️"
+title       = "Custom CAD Design"
+description = "Full CAD-to-casting design service — from client brief to production-ready files."
+
+
+[[params.services]]
+name        = "Castable Wax Printing"
+description = "High-resolution castable wax and resin patterns for investment casting — 25µm resolution, complete burnout."
+icon        = "✨"
+image       = "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80"
+
+[[params.services]]
+name        = "Direct Metal Jewelry"
+description = "Gold, silver, and platinum parts via direct metal laser sintering — no casting step required."
+icon        = "💍"
+image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80"
+
+[[params.services]]
+name        = "Jewelry Prototyping"
+description = "Rapid concept models in photopolymer resin before committing to precious metal production."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80"
+
+[[params.services]]
+name        = "Custom CAD Design"
+description = "Full CAD-to-casting design service — from client brief to production-ready files."
+icon        = "🖥️"
+image       = "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintjewelry.com"
+url         = "https://3dprintjewelry.com"
+description = "3D print jewelry flagship"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder for AM"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[menu.main]]
+name   = "Home"
+url    = "/"
+weight = 1
+
+[[menu.main]]
+name   = "About"
+url    = "/about/"
+weight = 2
+
+[[menu.main]]
+name   = "Articles"
+url    = "/articles/"
+weight = 3
+
+[[menu.main]]
+name   = "Services"
+url    = "/services/"
+weight = 4
+
+[[menu.main]]
+name   = "Contact"
+url    = "/contact/"
+weight = 5
+
+[[menu.main]]
+name   = "Advertise"
+url    = "/advertise/"
+weight = 6
